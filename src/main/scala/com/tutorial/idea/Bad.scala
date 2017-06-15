@@ -4,7 +4,6 @@ package com.tutorial.idea
 class Bad {
   // tipo
   private val unused = new AnyRef
-  val obj = new AnyRef
 
   Seq(5, 6).find(_ == 4).isDefined
 
