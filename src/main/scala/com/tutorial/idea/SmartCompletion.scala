@@ -10,5 +10,6 @@ class SmartCompletion {
   val d = 1.1
   //println using `priv`
 
+  // ignore auto import
   //  new Codec()
 }
