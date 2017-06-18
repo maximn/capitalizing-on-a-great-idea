@@ -12,12 +12,4 @@ class Bad {
   Seq(9, 1).apply(0)
 
   Seq("a", "b", "c").drop(1).take(1)
-
-  //illegal1
-
-
-  //illegal2
-
-
-  //illegal3
 }
