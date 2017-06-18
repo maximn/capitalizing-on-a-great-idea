@@ -8,6 +8,7 @@ class SmartCompletion {
   val s = "1"
   val c: Charset = Charset.defaultCharset()
   val d = 1.1
+  //println using `priv`
 
   //  new Codec()
 }
