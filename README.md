@@ -26,7 +26,8 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 |Syntax aware selection - Incremental selection|ALT + UP/DOWN|CMD + W/SHIFT+CMD+W
 |Duplicate line|CMD + D
 |Delete line|CMD + DELETE|CMD + Y
-|Move line|CMD + SHIFT + UP/DOWN
+|Move line|ALT + SHIFT + UP/DOWN
+|Move statement|CMD + SHIFT + UP/DOWN
 |Comment line|CMD + /
 |Reformat Code|CMD + ALT + L
 |Optimize Imports|CMD + ALT + O
