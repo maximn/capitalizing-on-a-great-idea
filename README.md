@@ -9,6 +9,7 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 |*Find Action*|CMD + SHIFT + A|CMD + SHIFT + A
 |*Change Keymap*|CMD + ~ -> 3 -> your selection|CMD + ~ -> 3 -> your selection
 |Show Intention Actions|ALT+ENTER|ALT+ENTER
+|Stretch to X|SHIFT + CMD + LEFT/RIGHT/DOWN/LEFT
 | **Lookups**
 |Class Name|CMD + O|CMD + N
 |Symbol|CMD + ALT + O|
