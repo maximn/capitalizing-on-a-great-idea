@@ -5,7 +5,7 @@ class Navigation {
   // Recently viewed files (CMD + E), recently edited (CMD+SHIFT+E)
   // Bookmarks (Set - CTRL + SHIFT + NUMBER, Goto - CTRL + NUMBER, List - CMD + F3, Toggle - F3)
 
-  //not-compiling1
-  //not-compiling2
-  //not-compiling3
+//  notCompiling1
+//  notCompiling2
+//  notCompiling3
 }
