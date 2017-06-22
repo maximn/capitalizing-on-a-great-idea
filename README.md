@@ -32,6 +32,9 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 |Optimize Imports|CMD+ALT+O
 |Multiline cursor|ALT+ALT(no release)+UP/DOWN
 |Multiple cursors|ALT+SHIFT+CLICK
+| **Code Organization**
+|Reformat code|CMD + ALT + L
+|Organize imports|CTRL + ALT + O
 | **Types**
 |Type of a val|CONTROL+P
 |Show parameters|CMD+SHIFT+P
