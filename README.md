@@ -33,6 +33,7 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 |Optimize Imports|CMD + ALT + O
 |Multiline cursor|ALT + ALT(keep pressing) + UP/DOWN
 |Multiple cursors|ALT + SHIFT + CLICK
+|Surround With (try/catch, braces, ...)|CMD + ALT + T
 | **Code Organization**
 |Reformat code|CMD + ALT + L
 |Organize imports|CTRL + ALT + O
