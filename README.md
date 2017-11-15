@@ -10,6 +10,7 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 |*Change Keymap*|CMD + ~ -> 3 -> your selection|CMD + ~ -> 3 -> your selection
 |Show Intention Actions|ALT + ENTER|ALT + ENTER
 |Stretch to X|SHIFT + CMD + LEFT/RIGHT/DOWN/LEFT
+|Show descriptions of error at caret|CMD + F1|CMD + F1
 | **Lookups**
 |Class Name|CMD + O|CMD + N
 |Symbol|CMD + ALT + O|
