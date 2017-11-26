@@ -5,10 +5,17 @@ public class Navigation {
     // Recently Viewed[Edited] files (CMD + [SHIFT] + E)
     // Bookmarks (Set - CTRL + SHIFT + NUMBER,
     //            Goto - CTRL + NUMBER,
-    //            List - CMD + F3,
-    //            Toggle - F3)
+    //            Toggle - F3,
+    //            List - CMD + F3)
 
 //  notCompiling1
 //  notCompiling2
 //  notCompiling3
+
+
+    public void methodToTest() {
+        return;
+    }
+
+    // Let's edit some text
 }

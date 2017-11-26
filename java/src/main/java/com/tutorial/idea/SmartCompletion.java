@@ -6,7 +6,7 @@ class SmartCompletion {
     // multiline selection
     int i = 1;
     String s = "1";
-    double d = 1.1;
+    double d = 1.0;
     Object o = Charset.availableCharsets();
 
 //    private void bar() {
@@ -15,10 +15,12 @@ class SmartCompletion {
 
 
     private void liveTemplates(int a, String b) {
-// thr, sout, soutm, soutp, soutv
+// soutm, soutp, soutv
 
     }
 
 // ignore auto import
 // File file = new File();
+
+    //Bad code
 }

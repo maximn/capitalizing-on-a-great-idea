@@ -5,7 +5,7 @@ public class Lookups {
     // By symbol (nextDouble) (CMD + ALT + O)
     // By filename (.gradle) (CMD + SHIFT + O) - `/` will take to folders
 
-    // CamelCase - UnsOpEx
+    // CamelCase - BeanContextServiceProviderBeanInfo
     // Wildcard matching - Da*me
     // namespaces - joda.DT
 }
