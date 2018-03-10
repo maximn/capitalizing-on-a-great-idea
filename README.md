@@ -18,6 +18,7 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 | **Navigation**
 |File structure popup|CMD + F12||CTRL + F12
 |Move between tabs in open order|ALT + CMD + LEFT/RIGHT || CTRL + ALT + LEFT/RIGHT
+|Move between tabs left/right|CMD + SHIFT + [/]
 |Recently viewed files|CMD + E||CTRL + E
 |Recently edited files|CMD + SHIFT + E||CTRL + SHIFT + E
 |Bookmarks - Set|CTRL + SHIFT + NUMBER/LETTER|| CTRL + SHIFT + NUMBER/LETTER
