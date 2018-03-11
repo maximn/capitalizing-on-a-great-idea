@@ -6,6 +6,8 @@ class Navigation {
   // Recently viewed files (CMD + E), recently edited (CMD+SHIFT+E)
   // Bookmarks (Set - CTRL + SHIFT + NUMBER, Goto - CTRL + NUMBER, List - CMD + F3, Toggle - F3)
 
+  // Switch between Test/Production code (CMD + SHIFT + T)
+
 //  notCompiling1
 //  notCompiling2
 //  notCompiling3

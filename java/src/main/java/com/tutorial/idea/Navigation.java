@@ -9,6 +9,8 @@ public class Navigation {
     //            Toggle - F3,
     //            List - CMD + F3)
 
+    // Switch between Test/Production code (CMD + SHIFT + T)
+
 //  notCompiling1
 //  notCompiling2
 //  notCompiling3
