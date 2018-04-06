@@ -34,8 +34,6 @@ Source code of the samples for "Become a super user with IntelliJ" talk
 |Move line|ALT + SHIFT + UP/DOWN||ALT + SHIFT + UP/DOWN
 |Move statement|CMD + SHIFT + UP/DOWN||CTRL + SHIFT + UP/DOWN
 |Comment line|CMD + /||CTRL + /
-|Reformat Code|CMD + ALT + L||CTRL + ALT + L
-|Optimize Imports|CMD + ALT + O||CTRL + ALT + O
 |Multiline cursor|ALT + ALT(keep pressing) + UP/DOWN||CTRL + CTRL(keep pressing) + UP/DOWN
 |Multiple cursors|ALT + SHIFT + CLICK||ALT + CLICK
 |Surround With (try/catch, braces, ...)|CMD + ALT + T||CTRL + ALT + T
