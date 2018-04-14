@@ -5,7 +5,7 @@ class Lookups {
   // By symbol (nextDouble) (CMD + ALT + O)
   // By filename (ScalaSpecific) (CMD + SHIFT + O) - `/` will take to folders
 
-  // CamelCase - IlAr
+  // CamelCase - AdaptiveWorkStealingThreadPoolTasks
   // Wildcard matching - Da*me
   // namespaces - joda.DT
 }
