@@ -11,7 +11,9 @@ class Navigation {
 
   // Switch between Test/Production code (CMD + SHIFT + T)
 
-//  notCompiling1
-//  notCompiling2
-//  notCompiling3
+  //  notCompiling1
+  //  notCompiling2
+  //  notCompiling3
+
+  // Time for text editing
 }

@@ -13,4 +13,6 @@ class TextEditing {
   // Delete line (CMD + DELETE)
   // Move line (CMD + SHIFT + UP/DOWN)
   // Comment line (CMD + /)
+
+  // Now let's smart complete
 }

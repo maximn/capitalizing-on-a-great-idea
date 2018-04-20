@@ -12,4 +12,6 @@ class SmartCompletion {
 
   // ignore auto import
   //  new Codec()
+
+  // Improve bad code
 }
