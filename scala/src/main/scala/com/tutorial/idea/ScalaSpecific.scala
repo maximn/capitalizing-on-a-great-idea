@@ -8,7 +8,7 @@ class Conversion {
 
 class Parameter {
 
-  import scala.concurrent.ExecutionContext.Implicits.global
+  import scala.concurrent.ExecutionContext.Implicits._
 
   val doSomeWork: () => Unit = ???
 
