@@ -3,7 +3,7 @@ package com.tutorial.idea
 import scala.concurrent.Future
 
 class Conversion {
-  val bi: BigInt = 1
+  val bi: BigInt = 177
 }
 
 class Parameter {
