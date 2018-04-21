@@ -11,7 +11,7 @@ class TextEditing {
 
   // Duplicate line (CMD + D)
   // Delete line (CMD + DELETE)
-  // Move line (CMD + SHIFT + UP/DOWN)
+  // Move line (ALT[CMD] + SHIFT + UP/DOWN)
   // Comment line (CMD + /)
 
   // Now let's smart complete
