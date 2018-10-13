@@ -7,6 +7,8 @@ import java.util.function.Consumer;
 
 // Show Intention Actions (ALT+Enter)
 public class Bad {
+    // Show descriptions of error at caret (CMD + F1)
+
     // tipo
     private Object unused = new Object();
 
