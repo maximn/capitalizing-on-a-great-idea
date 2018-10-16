@@ -1,0 +1,9 @@
+Exception in thread "main" java.lang.NumberFormatException: For input string: "1.0"
+    at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.tutorial.idea.StackTrace.forthMethod(StackTrace.java:24)
+	at com.tutorial.idea.StackTrace.thirdMethod(StackTrace.java:17)
+	at com.tutorial.idea.StackTrace.secondMethod(StackTrace.java:13)
+	at com.tutorial.idea.StackTrace.firstMethod(StackTrace.java:9)
+	at App.main(App.java:21)
