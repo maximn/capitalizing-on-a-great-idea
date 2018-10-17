@@ -22,5 +22,7 @@ class SmartCompletion {
 // ignore auto import
 // File file = new File();
 
+// Hippie Code Completion
+
     //Bad code
 }
