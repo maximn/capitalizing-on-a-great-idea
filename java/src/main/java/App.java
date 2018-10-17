@@ -1,3 +1,4 @@
+import com.tutorial.idea.Debugging;
 import com.tutorial.idea.Lookups;
 import com.tutorial.idea.StackTrace;
 
@@ -18,6 +19,9 @@ public class App {
                 break;
             case 1:
                 new StackTrace().firstMethod();
+                break;
+            case 2:
+                new Debugging().start();
                 break;
         }
     }
