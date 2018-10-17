@@ -2,7 +2,7 @@ package com.tutorial.idea;
 
 import java.nio.charset.Charset;
 
-class SmartCompletion {
+class Completion {
     // multiline selection
     int i = 1;
     String s = "1";
@@ -17,6 +17,7 @@ class SmartCompletion {
     private void liveTemplates(int a, String b) {
 // soutm, soutp, soutv
 
+// postfix templates var,par,return
     }
 
 // ignore auto import
