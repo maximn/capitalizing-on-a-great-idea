@@ -13,6 +13,7 @@ class Completion {
 //        Math.round();
 //    }
 
+    //  Complete statement (SHIFT + CMD + ENTER)
 
     private void liveTemplates(int a, String b) {
 // soutm, soutp, soutv
