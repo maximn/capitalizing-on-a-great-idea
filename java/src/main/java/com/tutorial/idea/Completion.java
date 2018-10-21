@@ -9,8 +9,8 @@ class Completion {
     double d = 1.0;
     Object o = Charset.availableCharsets();
 
-//    private void bar() {
-//        Math.round();
+//    private long bar() {
+//        Math.round()
 //    }
 
     //  Complete statement (SHIFT + CMD + ENTER)
