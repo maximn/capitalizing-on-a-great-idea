@@ -29,7 +29,7 @@ public class Bad {
 
         List<Integer> arr = Arrays.asList(1, 2, 3);
 
-        boolean b = arr.stream().count() == 0;
+        long b = arr.stream().count();
 
         boolean present = arr.stream().filter(i -> i > 2).findFirst().isPresent();
     }
