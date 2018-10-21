@@ -20,6 +20,5 @@ public class Navigation {
         return;
     }
 
-    // History
     // Let's edit some text
 }
