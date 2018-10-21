@@ -35,3 +35,6 @@ public class Debugging {
 // 0. Naive solution
 // 1. conditional
 // 2. put another breakpoint to serve as a condition
+
+
+// Bad

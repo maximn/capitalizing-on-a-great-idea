@@ -25,5 +25,5 @@ class Completion {
 
 // Hippie Code Completion
 
-    //Bad code
+    //Stacktrace
 }

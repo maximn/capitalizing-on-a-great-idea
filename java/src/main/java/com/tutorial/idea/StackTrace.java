@@ -26,3 +26,5 @@ public class StackTrace {
 }
 
 // How can we change all methods to return int instead? Remove the `Method` suffix? - Add Selection for next Occurrence (CTRL + G)
+
+// Debugging
