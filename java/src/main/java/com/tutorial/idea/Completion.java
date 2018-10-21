@@ -9,22 +9,16 @@ class Completion {
     double d = 1.0;
     Object o = Charset.availableCharsets();
 
-//    private long bar() {
+//    private long bar(boolean b, int[] integers) {
 //        Math.round()
 //    }
-
-    //  Complete statement (SHIFT + CMD + ENTER)
-
-    private void liveTemplates(int a, String b) {
-// soutm, soutp, soutv
-
-// postfix templates var,par,return
-    }
+// postfix templates - var,par,return
+// live templates - soutm, soutp, soutv
+//  Complete statement (SHIFT + CMD + ENTER)
+// Hippie Code Completion
 
 // ignore auto import
 // File file = new File();
 
-// Hippie Code Completion
-
-    //Stacktrace
+//Stacktrace
 }
