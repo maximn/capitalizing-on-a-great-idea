@@ -5,7 +5,7 @@ import java.util.Random;
 public class StackTrace {
     private Random random = new Random();
 
-    public double firstMethod() {
+    public double entranceMethod() {
         return secondMethod();
     }
 

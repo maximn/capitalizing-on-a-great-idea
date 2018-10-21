@@ -18,7 +18,8 @@ public class App {
                 LOGGER.info(LOGGER.getName() + " some log message");
                 break;
             case 1:
-                new StackTrace().firstMethod();
+                double res = new StackTrace().entranceMethod();
+                System.out.println("res = " + res);
                 break;
             case 2:
                 new Debugging().start();
