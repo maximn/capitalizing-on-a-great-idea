@@ -18,6 +18,8 @@ public class Debugging {
                 oftenCalledAsync();
             }
         }
+
+        executorService.shutdown();
     }
 
     private void oftenCalledAsync() {
