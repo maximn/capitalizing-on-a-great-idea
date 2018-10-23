@@ -10,13 +10,10 @@ public class Debugging {
     private boolean specialCase = false;
 
     public void start() {
-        int randomInt;
-
         while (!specialCase) {
             oftenCalled();
-            randomInt = random.nextInt(100);
 
-            if (randomInt > 90) {
+            if (random.nextInt(100) > 90) {
                 specialCase = true;
                 oftenCalledAsync();
             }
